@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441044895551",
+    "project_id": "bonplan-474cb",
+    "storage_bucket": "bonplan-474cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441044895551:android:eb728ab5435363f9c3358a",
+        "android_client_info": {
+          "package_name": "com.example.bonplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441044895551-22hti1tf4srqfi02uvdbr792gfuirvp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMAMXblaNt7sRdjmcDZMaWI9zysaBiZac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441044895551-22hti1tf4srqfi02uvdbr792gfuirvp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
